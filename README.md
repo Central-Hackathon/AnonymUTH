@@ -8,7 +8,9 @@ AnonymUTH
 Τομέας Ενδιαφέροντος: Υπηρεσίες για πολίτες και επιχειρήσεις
 
 Όνομα Εφαρμογής: QRαξε
+
 Συνοπτική Περιγραφή: Μια εφαρμογή για την ολοκλήρωση παραγγελιών μέσω της χρήσης QR Code.
+
 Brief Description: An application for placing and completing orders using QR Code.
 
 Αναλυτική Περιγραφή:
